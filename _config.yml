@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : images/avatarSquare.png
+  avatar           : "avatarSquare.png"
   bio              : "Research Scientist at Intel"
   location         : "Santa Clara, CA, USA"
   employer         :
