@@ -1,3 +1,13 @@
+---
+permalink: /
+title: 
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a research scientist at Intel Embodied AI Lab. Prior to Intel, I obtained my Ph.D at the University of Adelaide (supervisor: [Prof. Tat-Jun Chin](https://cs.adelaide.edu.au/~ssl/) and [Prof. David Suter](https://ai-ecu.github.io/ECU-AI-Lab/dsuter/index.html)), where I was interested about fundamental computer vision problems such as robust fitting (estimating computer vision models under outlier contaminated data), multi-view geometry, point cloud processing and so on. After joining Intel, my interests shift towards the mixture of machine learning and computer vision such as continual learning, 3D reconstruction, novel view synthesis etc.. One of my works has been selected as one of the 12 best papers of ECCV'18. I have (co-)supervised several Ph.D students/interns, send me an email if you are interested in collaboration or internships. 
 
 A data-driven personal website
