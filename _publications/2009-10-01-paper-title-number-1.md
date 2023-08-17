@@ -6,5 +6,4 @@ excerpt: 'International Conference on Computer Vision in Remote Sensing (CVRS)'
 date: 2012-10-01
 venue: 'Peng Li, **Zhipeng Cai**, Cheng Wang, Zhuo Sun, Hanyun Wang, Jonathan Li'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421233'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
