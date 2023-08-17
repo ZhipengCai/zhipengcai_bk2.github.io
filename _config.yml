@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhipeng Cai （蔡志鹏）"
+  name             : 
   avatar           : "images/avatarSquare.png"
   bio              : "Research Scientist at Intel"
   location         : "Santa Clara, CA, USA"
   employer         :
   pubmed           : 
+  email            : "czptc2h@gmail.com"
   googlescholar    : "https://scholar.google.com/citations?user=AZNUIDAAAAAJ&hl=en"
-  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://zhipengcai.github.io/"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
