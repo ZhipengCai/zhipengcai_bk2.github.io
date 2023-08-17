@@ -22,8 +22,6 @@ July-2022: Paper accepted to [ICCV2021](http://iccv2021.thecvf.com/home). Topic:
 
 Sep-2020: Got my Ph.D degree (my [thesis](https://digital.library.adelaide.edu.au/dspace/bitstream/2440/127452/1/Cai2020_PhD.pdf) was awarded the [Dean’s Commendation for Doctoral Thesis Excellence](https://www.adelaide.edu.au/graduatecentre/current-students/your-thesis-examination/research-student-excellence-awards)! Now a postdoc at Intel Intelligent Systems Lab (Mentor: [Vladlen Koltun](http://vladlen.info/)).
 
-Sep-2020: Got my Ph.D degree (my [thesis](https://digital.library.adelaide.edu.au/dspace/bitstream/2440/127452/1/Cai2020_PhD.pdf) was awarded the [Dean’s Commendation for Doctoral Thesis Excellence](https://www.adelaide.edu.au/graduatecentre/current-students/your-thesis-examination/research-student-excellence-awards)! Now a postdoc at Intel Intelligent Systems Lab (Mentor: [Vladlen Koltun](http://vladlen.info/)).
-
 June-2020: Served as a "wingman" during TJ's [RANSAC CVPR 2020 Tutorial](http://cmp.felk.cvut.cz/cvpr2020-ransac-tutorial/). Find me [here](href='https://youtu.be/WkN3FP_jbuI/)
 
 July-2019: Paper accepted to IJCV Special Issue on Best of ECCV 2018
