@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhipeng Cai （蔡志鹏）"
-  avatar           : "profile.png"
+  avatar           : "images/avatarSquare.png"
   bio              : "Research Scientist at Intel"
   location         : "Santa Clara, CA, USA"
   employer         :
