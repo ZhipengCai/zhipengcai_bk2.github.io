@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "Scale invariant kernel-based object tracking"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: [/publication/2010-10-01-paper-title-number-2](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421270)
+excerpt: 'Peng Li,  **Zhipeng Cai**, Hanyun Wang, Zhuo Sun, Yunhui Yi, Cheng Wang, Jonathan Li'
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
